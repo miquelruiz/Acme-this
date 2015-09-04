@@ -1,35 +1,28 @@
-=pod
+NAME
 
-=head1 NAME
+    Acme::this - The Zen of Perl
 
-Acme::this - The Zen of Perl
+SYNOPSIS
 
-=head1 SYNOPSIS
+        use Acme::this;
 
-    use Acme::this;
+DESCRIPTION
 
-=head1 DESCRIPTION
+    Print the Zen of Perl when used.
 
-Print the Zen of Perl when used.
+ACKNOWLEDGEMENTS
 
-=head1 ACKNOWLEDGEMENTS
+    All the credit to <bellaire>, who wrote the Zen of Perl in
+    http://www.perlmonks.org/?node_id=752029
 
-All the credit to <bellaire>, who wrote the Zen of Perl in
-L<http://www.perlmonks.org/?node_id=752029>
+AUTHOR
 
-=head1 AUTHOR
+      * Miquel Ruiz <mruiz@cpan.org>
 
-=over 4
+COPYRIGHT AND LICENSE
 
-=item *
-Miquel Ruiz <mruiz@cpan.org>
+    This software is copyright (c) 2015 by Miquel Ruiz.
 
-=back
-
-=head1 COPYRIGHT AND LICENSE
-
-This software is copyright (c) 2015 by Miquel Ruiz.
-
-This is free software; you can redistribute it and/or modify it under
-the same terms as the Perl 5 programming language system itself.
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
 
